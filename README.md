@@ -28,6 +28,6 @@
 (2)不使用提示：以較高的分數到達該層，玩家可互相比較Level和Score。
 
 
-
+遊戲示範影片:https://www.youtube.com/watch?v=N7rO5GKGoOg
 
 
